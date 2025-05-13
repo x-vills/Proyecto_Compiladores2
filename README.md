@@ -1,4 +1,4 @@
-#Analizador sintáctico para el lenguaje de programación: ProLang
+# Analizador sintáctico para el lenguaje de programación: ProLang
 Analizar sintáctico desarrollado en ANTLR (ANother Tool for Language Recognition) como propuesta para un lenguaje de programación ficticio.
 
 ## Información del Curso
