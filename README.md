@@ -9,5 +9,5 @@ Profesor: Dante Adolfo Muñoz Quintero
 
 ## Integrantes
 - José Eduardo Hernández Balleza
-- - Katya Paola Moctezuma Herrera
+- Katya Paola Moctezuma Herrera
 - Carlos Manuel Torres Hipólito
