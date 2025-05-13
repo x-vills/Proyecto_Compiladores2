@@ -8,6 +8,6 @@ Semestre: Noveno semestre del 2025
 Profesor: Dante Adolfo Muñoz Quintero
 
 ## Integrantes
-- Carlos Manuel Torres Hipólito
-- Katya Paola Moctezuma Herrera
 - José Eduardo Hernández Balleza
+- - Katya Paola Moctezuma Herrera
+- Carlos Manuel Torres Hipólito
